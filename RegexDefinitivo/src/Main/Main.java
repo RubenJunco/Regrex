@@ -12,7 +12,7 @@ public class Main extends JFrame {
     private JButton analyzeButton; // Botón para iniciar el análisis del texto
 
     public Main() {
-        setTitle("Regex");
+        setTitle("Regextrtrtr");
         setSize(400, 300); 
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE); 
         initComponents(); 
